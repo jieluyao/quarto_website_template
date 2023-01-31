@@ -1,20 +1,23 @@
 ---
 about:
   template: trestles
-  image: mariecurie.png
+  image: img/jieluyao_circle.png
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com/mariecurie
+      href: https://twitter.com/jielu_yao
     - icon: github
       text: github
-      href: https://github.com/mariecurie
+      href: https://github.com/jieluyao
     - icon: envelope
       text: mail
-      href: mailto:Marie.Curie@ens.fr
+      href: mailto:jyao01@wesleyan.edu
 ---
 
-**Professor Marie Skłodowska-Curie**<br>
-School of Physics & Chemistry<br>
-École Normale Supérieure<br>
-Paris, France
+<div class="about-link-text">
+**Jielu&nbsp;Yao**<br>
+Post-doc Research Fellow<br>
+<br>
+[Wesleyan Media Project](http://mediaproject.wesleyan.edu/)<br>
+[Wesleyan University](https://wesleyan.edu), US.
+</div>

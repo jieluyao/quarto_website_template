@@ -1,3 +1,3 @@
 # About me
 
-Some more detail about who I am and what I do.
+Jielu is a Postdoctoral Fellow at Wesleyan University. Her research interests center on political methodology and American politics. Particularly, she is interested in applying supervised, unsupervised, and deep learning techniques to non-traditional data such as text, image/video, and audio. She also studies political communication, politic policy, and women & politics. Jielu received her Ph.D. from the University of Iowa in Political Science in 2020. 
